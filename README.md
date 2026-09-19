@@ -40,7 +40,15 @@ Built with **Python**, **CustomTkinter**, and **PySerial**.
 - 🧾 **Installable with Inno Setup** (Windows installer)
 
 ---
+## 📸 Screenshots
 
+### Main Interface
+![Main Interface](docs/pic1.png)
+
+### Documentation Dialog
+![Main Interface](docs/pic2.png)
+
+---
 ## 📋 Requirements
 
 - **Python** 3.10 or newer (3.11–3.12 recommended)
