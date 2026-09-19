@@ -278,4 +278,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) — modern Tkinter widgets
 - [PySerial](https://github.com/pyserial/pyserial) — serial communication
-- [Espressif](https://www.espressif.com/) — ESP32 platform
+- [Arduino](https://www.arduino.cc/) — ESP32 Arduino platform
